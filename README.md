@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MikeS11/GB_Bargraph_Sequence">
-    <img src="/MikeS11/ProtonPack/Images/MikeS11_Logo.jpg?raw=true" alt="Logo" width="180" height="200">
+    <img src="Images/MikeS11_Logo.jpg?raw=true" alt="Logo" width="180" height="200">
   </a>
 
   <h3 align="center">28 Segment Bargraph Library for Arduino Proton Packs</h3>
@@ -34,7 +34,7 @@
 ## About The Project
 
 <p align="center">
-<img src="Images/ArduinoPrototype.jpg?raw=true" alt="Prototype" width="640" height="480"></p>
+<img src="Images/28SegBarGraph.png?raw=true" alt="Prototype" width="597" height="504"><img src="Images/HT16k33.png?raw=true" alt="Prototype" width="623" height="665"></p>
 My original Spirit Halloween project was based on Eric Banker's (CountDeMonet's) 15 segment bargraph but I wanted something a bit more movie accurate. Seeing how there was no source online I decided to write my own library and share it to the GB community.
 
 ### Getting Started
