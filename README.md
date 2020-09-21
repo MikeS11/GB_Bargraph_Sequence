@@ -36,7 +36,7 @@
 
 <p align="center">
 <img src="Images/ArduinoPrototype.jpg?raw=true" alt="Prototype" width="640" height="480"></p>
-Full 28 segment bargraph library for anyone who is working on an Arduino based proton pack.
+My original Spirit Halloween project was based on Eric Banker's (CountDeMonet's) 15 segment bargraph but I wanted something a bit more movie accurate. Seeing how there was no source online I decided to write my own library and share it to the GB community.
 
 ### Getting Started
 
@@ -45,11 +45,27 @@ Full 28 segment bargraph library for anyone who is working on an Arduino based p
 * []() 1 - 28 Segment Bargraph - Found on Ebay (Supplier BarMeter.com) 
 * []() 1 - HT16K33 Breakout Board (Or Alternative)
 
-Notes : Pinouts
+### Circuit Pinouts:
 
+Arduino to the HT16k33 Breakout Board  
     SCL ----- A5
     SDA ----- A4
     
+Bargraph to the HT16k33 Breakout Board  
+
+    5V 	    to 	VDD
+    GND 	  to 	GND
+    Pin 21	to 	C0
+    Pin 15 	to 	C1
+    Pin 13 	to 	C2
+    Pin 16 	to 	C3
+    Pin 22 	to	A0
+    Pin 1 	to	A1
+    Pin 19 	to	A2
+    Pin 18 	to	A3
+    Pin 7 	to	A4
+    Pin 10 	to	A5
+    Pin 7 	to	A6    
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
