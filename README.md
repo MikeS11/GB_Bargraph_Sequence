@@ -25,8 +25,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#Build-Requirements)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Wand Configuration](#wand-configuration)  
+  * [Circuit Pinouts](#circuit-pinouts)  
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -82,8 +81,6 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
