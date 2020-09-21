@@ -77,22 +77,16 @@ Project Link: [https://github.com/MikeS11/GB_Bargraph_Sequence](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MikeS11/GB_Bargraph_Sequence
-.svg?style=flat-square
-[contributors-url]: https://github.com/MikeS11/GB_Bargraph_Sequence
-/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/MikeS11/GB_Bargraph_Sequence.svg?style=flat-square
+[contributors-url]: https://github.com/MikeS11/GB_Bargraph_Sequence/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/MikeS11/GB_Bargraph_Sequence.svg?style=flat-square
-[forks-url]: https://github.com/MikeS11/GB_Bargraph_Sequence
-/network/members
+[forks-url]: https://github.com/MikeS11/GB_Bargraph_Sequence/network/members
 [stars-shield]: https://img.shields.io/github/stars/MikeS11/GB_Bargraph_Sequence.svg?style=flat-square
-[stars-url]: https://github.com/MikeS11/GB_Bargraph_Sequence
-/stargazers
+[stars-url]: https://github.com/MikeS11/GB_Bargraph_Sequence/stargazers
 [issues-shield]: https://img.shields.io/github/issues/MikeS11/GB_Bargraph_Sequence.svg?style=flat-square
-[issues-url]: https://github.com/MikeS11/GB_Bargraph_Sequence
-/issues
+[issues-url]: https://github.com/MikeS11/GB_Bargraph_Sequence/issues
 [license-shield]: https://img.shields.io/github/license/MikeS11/GB_Bargraph_Sequence.svg?style=flat-square
-[license-url]: https://github.com/MikeS11/GB_Bargraph_Sequence
-/blob/master/LICENSE.txt
+[license-url]: https://github.com/MikeS11/GB_Bargraph_Sequence/blob/master/LICENSE.txt
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=Twitter&colorB=555
 [twitter-url]: https://Twitter.com/mikesimone3
 [product-screenshot]: images/screenshot.png
