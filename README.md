@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MikeS11/ProtonPack">
-    <img src="Images/MikeS11_Logo.jpg?raw=true" alt="Logo" width="180" height="200">
+    <img src="https://github.com/MikeS11/ProtonPack/Images/MikeS11_Logo.jpg?raw=true" alt="Logo" width="180" height="200">
   </a>
 
   <h3 align="center">28 Segment Bargraph Library for Arduino Proton Packs</h3>
