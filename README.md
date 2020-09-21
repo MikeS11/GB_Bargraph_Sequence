@@ -41,10 +41,11 @@ My original Spirit Halloween project was based on Eric Banker's (CountDeMonet's)
 
 ### Build Requirements:
 
+* []() HT16K33 Library (Included)
 * []() 1 - 28 Segment Bargraph - Found on Ebay (Supplier BarMeter.com) 
 * []() 1 - HT16K33 Breakout Board (Or Alternative)
 
-Library Functions
+GB_Bargraph_Sequence Library Functions
 
     initiateVariables(uint8_t BGMODE);              - Initiate Variables based on mode
     changeInterval(uint8_t NewInterval);            - Change the bargraph speed 
@@ -56,7 +57,7 @@ Library Functions
     clearLEDs();                                    - Clear all the LEDs
     sequenceShutdown(unsigned long currentMillis);  - Shutdown Sequence
 
-* []() HT16K33 Library (Included)
+
 
 ### Circuit Pinouts:
 
