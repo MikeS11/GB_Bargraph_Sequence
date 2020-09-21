@@ -10,8 +10,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/MikeS11/ProtonPack">
-    <img src="https://github.com/MikeS11/ProtonPack/Images/MikeS11_Logo.jpg?raw=true" alt="Logo" width="180" height="200">
+  <a href="https://github.com/MikeS11/GB_Bargraph_Sequence">
+    <img src="/MikeS11/ProtonPack/Images/MikeS11_Logo.jpg?raw=true" alt="Logo" width="180" height="200">
   </a>
 
   <h3 align="center">28 Segment Bargraph Library for Arduino Proton Packs</h3>
@@ -48,6 +48,7 @@ My original Spirit Halloween project was based on Eric Banker's (CountDeMonet's)
 ### Circuit Pinouts:
 
 Arduino to the HT16k33 Breakout Board  
+
     SCL ----- A5
     SDA ----- A4
     
