@@ -44,6 +44,18 @@ My original Spirit Halloween project was based on Eric Banker's (CountDeMonet's)
 * []() 1 - 28 Segment Bargraph - Found on Ebay (Supplier BarMeter.com) 
 * []() 1 - HT16K33 Breakout Board (Or Alternative)
 
+Library Functions
+
+    initiateVariables(uint8_t BGMODE);              - Initiate Variables based on mode
+    changeInterval(uint8_t NewInterval);            - Change the bargraph speed 
+    sequenceFire1(unsigned long currentMillis);     - Fire 1 Sequence
+    sequenceFire2(unsigned long currentMillis);     - Fire 2 Sequence
+    sequenceStart(unsigned long currentMillis);     - Wand Only on
+    sequencePackOn(unsigned long currentMillis);    - Normal Pack on Sequence
+    sequenceVent(unsigned long currentMillis);      - Vent Sequence
+    clearLEDs();                                    - Clear all the LEDs
+    sequenceShutdown(unsigned long currentMillis);  - Shutdown Sequence
+
 ### Circuit Pinouts:
 
 Arduino to the HT16k33 Breakout Board  
