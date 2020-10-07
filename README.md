@@ -81,6 +81,10 @@ Bargraph to the HT16k33 Breakout Board
     Pin 7 	to	A4
     Pin 10 	to	A5
     Pin 7 	to	A6    
+    
+    <p align="center">
+<img src="Images/BarGraph_Pinout.png?raw=true" alt="Prototype" width="491" height="486">
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
