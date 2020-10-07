@@ -80,7 +80,7 @@ Bargraph to the HT16k33 Breakout Board
     Pin 18 	to	A3
     Pin 7 	to	A4
     Pin 10 	to	A5
-    Pin 7 	to	A6    
+    Pin 11 	to	A6    
     
 
 <p align="center">
