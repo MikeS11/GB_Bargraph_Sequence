@@ -86,7 +86,8 @@ Bargraph to the HT16k33 Breakout Board
 <p align="center">
 
 <img src="Images/BarGraph_Pinout.png?raw=true" alt="Prototype" width="300" height="300">
-BarGraph Pinout</p>
+
+Bargraph Pinout</p>
 
 ## Contributing
 
